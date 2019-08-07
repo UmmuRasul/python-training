@@ -4,7 +4,7 @@ value = 'green'
 if value == 'green':
     print("gooooooo")
 elif value == "yellow":
-    print("prepare to stop")
+    print("prepare to stop chandges made")
 else:
     print("Stop")
 
